@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/0nQqTjP/cyber-banner.gif" alt="Cyber Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/V4m3s/V4m3s/refs/heads/main/straw_banner.gif" alt="Straw Banner" width="800"/>
 </p>
 
 <!-- Profile Header -->
