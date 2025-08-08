@@ -26,7 +26,7 @@
 ## 🛠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,arduino,github" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,arduino,github" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ---
 
 ## 🌍 Connect with Me
-- 🔗 **Root-Me**: [My Root-Me Profile](https://www.root-me.org/v4mes)
+- 🔗 **Root-Me**: [My Root](https://www.root-me.org/v4mes)
 - 🐙 **GitHub**: You're already here 😉
 
 ---
