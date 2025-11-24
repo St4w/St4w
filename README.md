@@ -40,21 +40,6 @@
 
 ## 🌍 Connect with Me
 - 🔗 **Root-Me**: [My Root](https://www.root-me.org/v4mes)
-- 🐙 **GitHub**: You're already here 😉
+- 🔗 **Linkedin**: [My profile](www.linkedin.com/in/pierre-garcies-aa184039a)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=St4w&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=St4w&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St4w&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
