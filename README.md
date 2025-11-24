@@ -40,5 +40,5 @@
 
 ## 🌍 Connect with Me
 - 🔗 **Root-Me**: [My Root](https://www.root-me.org/v4mes)
-- 🔗 **Linkedin**: [My Root](www.linkedin.com/in/pierre-garcies-aa184039a)
+- 🔗 **Linkedin**: [My Root](https://www.linkedin.com/in/pierre-garcies-aa184039a/)
 ---
